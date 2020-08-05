@@ -14,5 +14,40 @@ I dual-boot Win10 and Linux. But after installing Pop! OS the computer boots dir
 
 `sudo update-grub`
 
-## 
+## Cosmetics
+
+GTK: [Dracula](https://draculatheme.com/gtk "Dracula")
+
+Cursor: default Pop cursor
+
+Icons: default Pop icons
+
+### GNOME Extensions
+
+#### Dash to dock
+
+Position on screen: bottom
+
+Intelligent autohide
+
+Dock size limit 90 %
+
+Icon size limit 48 px
+
+Fixed opacity 35 %
+
+
+## Terminal
+
+Since I like drop-down terminals I went with Guake.
+
+`sudo apt install guake`
+
+It didn't automatically start after log in so I added it as a startup application to fix it.
+
+## Shell
+
+I use ZSH. See .zshrc
+
+[Guake&ZSH](https://imgur.com/wJJeKCS.png "Guake&ZSH")
 
