@@ -1,6 +1,6 @@
 # Dracula Pop! Dotfiles
 
-![Pop!](https://i.imgur.com/0iyqFMT.png "Darcula")
+![Pop!](https://imgur.com/HqRoaTL.png "Dracula Pop!")
 
 ## Boot it!
 
