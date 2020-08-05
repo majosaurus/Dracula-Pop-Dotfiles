@@ -49,5 +49,5 @@ It didn't automatically start after log in so I added it as a startup applicatio
 
 I use ZSH. See .zshrc
 
-[Guake&ZSH](https://imgur.com/wJJeKCS.png "Guake&ZSH")
+! [Guake&ZSH](https://imgur.com/wJJeKCS.png "Guake&ZSH")
 
