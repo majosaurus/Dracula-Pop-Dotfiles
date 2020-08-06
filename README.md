@@ -4,7 +4,7 @@
 
 ## Boot it!
 
-I dual-boot Win10 and Linux. But after installing Pop! OS the computer boots directly to Pop! OS. I fixed it using following commands:
+I dual-boot Win10 and Linux. But after installing Pop! OS my computer booted directly to Pop! OS. I fixed it using following commands:
 
 `sudo apt update`
 
