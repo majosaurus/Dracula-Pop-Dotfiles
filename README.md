@@ -51,3 +51,8 @@ I use ZSH. See .zshrc
 
 ![Guake&ZSH](https://imgur.com/wJJeKCS.png "Guake&ZSH")
 
+### Prompt
+I use [Pure](https://github.com/sindresorhus/pure)
+
+### Ls command
+I use [LSDeluxe](https://github.com/Peltoche/lsd) as a modern ls replacement
