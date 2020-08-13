@@ -54,5 +54,8 @@ I use ZSH. See .zshrc
 ### Prompt
 I use [Pure](https://github.com/sindresorhus/pure)
 
+`mkdir -p "$HOME/.zsh"
+git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"`
+
 ### Ls command
 I use [LSDeluxe](https://github.com/Peltoche/lsd) as a modern ls replacement
