@@ -22,6 +22,8 @@ Cursor: default Pop cursor
 
 Icons: default Pop icons
 
+Wallpaper in the depository
+
 ### GNOME Extensions
 
 #### Dash to dock
@@ -56,3 +58,4 @@ I use [Pure](https://github.com/sindresorhus/pure)
 
 ### Ls command
 I use [LSDeluxe](https://github.com/Peltoche/lsd) as a modern ls replacement
+
