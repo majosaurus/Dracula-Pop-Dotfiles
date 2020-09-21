@@ -22,4 +22,8 @@ alias ls='lsd -la'
 # Weather
 alias wttr='curl wttr.in'
 
+# Encoding
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+
 neofetch
