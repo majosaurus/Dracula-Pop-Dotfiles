@@ -14,6 +14,8 @@ I dual-boot Win10 and Linux. But after installing Pop! OS my computer booted dir
 
 `sudo update-grub`
 
+_Side note: While dual booting Win can't be updated. Still don't know why :shrug:_
+
 ## Cosmetics
 
 GTK: [Dracula](https://draculatheme.com/gtk "Dracula")
