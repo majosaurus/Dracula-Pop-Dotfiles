@@ -12,6 +12,8 @@ Icons: Dracula
 
 Wallpaper: Dracula in the repo
 
+Dock: Enable, Show Mounted Drives, Always Hide, Medium Size, Bottom, Center
+
 ### GNOME Extensions
 
 #### Dash to dock - OUTDATED (11/2021)
@@ -36,7 +38,9 @@ Everybody hail drop-down terminals. Spread the love of Guake.
 
 `sudo apt install guake`
 
-Also added it to startup applications. Needs to be done via Tweaks, does not work in normal settings.
+Also added it to startup applications.
+
+Dracula theme (General/GTK and Appearance/Palette) needs to be set separately for Guake in Guake settings. 
 
 ## Shell
 
@@ -46,6 +50,8 @@ I use ZSH. See .zshrc
 
 ![Guake&ZSH](https://imgur.com/wJJeKCS.png "Guake&ZSH")
 
+_Side note: It's a bad idea to include Dracula theme path in zshrc, do everything in Guake instead <3_
+
 ### Prompt
 I use [Pure](https://github.com/sindresorhus/pure)
 
@@ -54,5 +60,7 @@ I use [Pure](https://github.com/sindresorhus/pure)
 `git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"`
 
 ### Ls command
-I use [LSDeluxe](https://github.com/Peltoche/lsd) as a modern ls replacement
+I use [LSDeluxe](https://github.com/Peltoche/lsd) as a modern ls replacement.
+
+But I never figured out what fonts exactly I should use so I just skip that part.
 
