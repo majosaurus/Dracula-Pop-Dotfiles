@@ -2,22 +2,6 @@
 
 ![Pop!](https://imgur.com/HqRoaTL.png "Dracula Pop!")
 
-## Boot it!
-
-While dual booting Pop! and Win10 the computer boots to Pop! directly without an option to boot into Win10. I installed grub to fix it.
-
-`sudo apt update`
-
-`sudo apt install os-prober`
-
-`sudo os-prober`
-
-`sudo update-grub`
-
-_Side note: While dual booting Win can't be updated. Still don't know why :shrug:_
-
-_Side note 2: Apparently grub stopped working after Pop 21.04 release lol_
-
 ## Cosmetics
 
 GTK: [Dracula](https://draculatheme.com/gtk "Dracula")
